@@ -1,7 +1,7 @@
 # ESP8266_W5100_Manager
 
-[![arduino-library-badge](https://www.ardu-badge.com/badge/ESP8266_W5100_manager.svg?)](https://www.ardu-badge.com/ESP8266_W5100_Manager)
-[![GitHub release](https://img.shields.io/github/release/khoih-prog/ESP8266_W5100_manager.svg)](https://github.com/khoih-prog/ESP8266_W5100_Manager/releases)
+[![arduino-library-badge](https://www.ardu-badge.com/badge/ESP8266_W5100_Manager.svg?)](https://www.ardu-badge.com/ESP8266_W5100_Manager)
+[![GitHub release](https://img.shields.io/github/release/khoih-prog/ESP8266_W5100_Manager.svg)](https://github.com/khoih-prog/ESP8266_W5100_Manager/releases)
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/khoih-prog/ESP8266_W5100_Manager/blob/main/LICENSE)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](#Contributing)
 [![GitHub issues](https://img.shields.io/github/issues/khoih-prog/ESP8266_W5100_manager.svg)](http://github.com/khoih-prog/ESP8266_W5100_Manager/issues)
